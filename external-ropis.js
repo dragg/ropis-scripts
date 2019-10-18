@@ -69,7 +69,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 ;(function () {
-  var url = "http://canabis.test".replace('http:', '').replace('https:', '');
+  var url = "https://github.com/dragg/ropis-scripts".replace('http:', '').replace('https:', '');
 
   if (!url.endsWith('/')) {
     url += '/';
